@@ -6,7 +6,7 @@ I modified that repo for people who need remove vocal from a .mp4 file.
 + `Python` is installed, version >= 3.11 (I have not tried with older version)  
 + `Python Virtual Environment` is installed  
 + `ffmpeg` is installed and added to computer's environment  
-+ Operation System: `Windows`  
++ Operating System: `Windows`  
 + `git bash` is installed  
 ## 3. Installation
 + Step 1: clone this repo  
