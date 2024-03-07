@@ -1,9 +1,9 @@
-handle/venv/Scripts/python handle/convert_mp4_mp3.py
+handle/venv/Scripts/python ./handle/convert_mp4_mp3.py
 rm file.mp4
 
 mv file.mp3 handle/
 cd handle
-venv/Scripts/python inference.py --input 'file.mp3'
+./inference.exe --input 'file.mp3'
 cd ..
 mv handle/file.mp3 .
 mv handle/*.wav .
